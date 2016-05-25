@@ -1,2 +1,2 @@
-fromtriptotrip.github.io
+TEDxITMOUniversity.github.io
 ========================
