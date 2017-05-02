@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .colortext {
-     color: #e62b1e; /* Красный цвет выделения */
+     color: #e62b1e; /* ГЉГ°Г Г±Г­Г»Г© Г¶ГўГҐГІ ГўГ»Г¤ГҐГ«ГҐГ­ГЁГї */
    }
 
 /*
@@ -132,7 +132,7 @@ header{
 .testimonial{
 
 }
-.testimonial .icon:after{
+/*.testimonial .icon:after{
 	content: "";
 	position: absolute;
 	width: 80px;
@@ -145,7 +145,7 @@ header{
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	margin-left: -40px;
-}
+}*/
 .testimonial .icon i{
     color: #fff;
     font-size: 47px;
