@@ -134,11 +134,11 @@ header{
 }
 .testimonial .icon:after{
 	content: "";
-	/*position: absolute;*/
+	position: absolute;
 	width: 80px;
 	height: 80px;
 	background-color: #f73b56;
-	top: 110px;
+	top: 2030px;
 	left: 50%;
 	-moz-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
