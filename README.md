@@ -1,2 +1,3 @@
-TEDxITMOUniversity.github.io
+Computer Systems Design and Security
+CSDS
 ========================
